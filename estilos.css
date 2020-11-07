@@ -49,6 +49,9 @@ color:#F0B429
     top:140px;
 
 }/*este es el menu*/
+.h1:hover{
+	color: #ffffff;
+	transition: all .3s;}
 .navegacion{
     width: 940px;
 	margin: 30px auto;
