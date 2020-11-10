@@ -49,6 +49,7 @@ color:#F0B429
     top:140px;
 
 }/*este es el menu*/
+/*tratando de poner color al himno*/
 .h1:hover{
 	color: #ffffff;
 	transition: all .3s;}
@@ -169,7 +170,7 @@ li {
     font-size:16px;
     color:#F0B429;	
     left:540px;
-    top:1540px; 
+    top:1628px; 
 
 }
 td{
