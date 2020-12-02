@@ -71,7 +71,7 @@ color:#F0B429
 
 .menu > li > a{
 	display: block;
-	padding: 15px 20px;
+	padding: 25px 30px;
 	color: #353535;
 	font-family: 'Open sans';
 	text-decoration: none;
@@ -96,7 +96,7 @@ color:#F0B429
 .submenu li a{
 	display: block;
 	padding: 15px;
-	color: #333333;
+	color: #ffffff;
 	font-family: 'Open sans';
 	text-decoration: none;
 }
@@ -129,13 +129,14 @@ iframe{
 
 .footer {
   height: 1,5rem;
-  background-color: #e2e2e2
+  background-color: #ffffff
   
 }
 .footer{
     bottom: 0;
     align-self: flex-end;
     text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;	
@@ -143,7 +144,8 @@ h3{
 }
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;	
-    color: #000000;
+    color: #ffffff;
+    text-align: justify
 }
 h4{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;	
@@ -151,8 +153,9 @@ h4{
 }
 li {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;	
-    color: #000000;}
-
+    color: #ffffff;
+    text-align: justify
+}
 #imgenht.resize { 
         width:540px; 
         height: auto; 
