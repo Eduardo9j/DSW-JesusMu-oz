@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font: normal .80em 'trebuchet ms',arial,sans-serif;
+    background: #F0EFE2;
+    color: #777;
+}
+header{
+    padding: 30px;
+    text-align: center;
+    color: white;
+    background: #383636;
+    background-image: url("landscape-5563684_1280.jpg");
+    font: normal .80em 'trebuchet ms',arial,sans-serif;
+    height:  300px;
+}
+header h1{
+    padding-top: 110px;
+    
+}
+#navegacion ul li a{
+    text-decoration: none;
+    color: #CDC090;
+
+}
+#navegacion ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 15px;        
+}
+nav{
+    background-color: #565454;
+    font-size: 14px;
+}
+#navegacion ul li a:hover{
+    color:white;
+}
+#navegacion ul li:hover{
+    background: black;
+}
+#division{
+    background: white;
+    width: 60%;
+    padding: 20px;
+    float: left;
+    height: auto;
+}
+
+aside{
+     width: 31%;
+     float: left;
+     padding:20px;
+     height:auto;
+
+}
+
+aside h5{
+        color: black;
+
+}
+footer{
+    background-color: #383636;
+    padding: 30px;
+    color: #CDC090;
+    text-align: center;
+    clear: both;
+}
+#contenedorSection{
+    width: 70%;
+    margin: auto;
+}
